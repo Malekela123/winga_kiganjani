@@ -1,0 +1,77 @@
+{
+  "@@locale": "sw",
+
+  "appName": "WINGA KIGANJANI",
+  "appTagline": "Mahitaji ya Campus, Sehemu Moja",
+
+  "greeting": "Habari, {name} 👋",
+  "@greeting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+
+  "welcomeBack": "Karibu tena kwenye mtandao wako wa campus.",
+
+  "campus": "Campus",
+  "searchHint": "Tafuta chakula, malazi, bidhaa au huduma...",
+
+  "dailyBudget": "Bajeti ya Leo",
+  "budgetBalance": "Salio",
+  "budgetSpent": "Iliyotumika",
+  "budgetLimit": "Kikomo cha Siku",
+  "manageBudget": "Simamia Bajeti",
+  "setBudget": "Weka Bajeti ya Siku",
+
+  "loginToBudget": "Ingia au fungua akaunti ili kuona na kusimamia bajeti yako ya kila siku.",
+  "loginRegister": "Ingia / Jisajili",
+
+  "quickServices": "Huduma za Haraka",
+
+  "food": "Chakula",
+  "accommodation": "Malazi",
+  "marketplace": "Soko",
+  "research": "Utafiti",
+
+  "nearbyFood": "Chakula Kinachopatikana Karibu",
+  "viewAllFood": "Ona Chakula Chote",
+  "orderNow": "Agiza Sasa",
+  "viewDetails": "Ona Maelezo",
+
+  "nearbyAccommodation": "Malazi Karibu na Campus",
+  "viewAllAccommodation": "Ona Malazi Yote",
+  "rentNow": "Pangisha Sasa",
+
+  "recommendedForYou": "Mapendekezo Kwako",
+
+  "researchCorner": "Kituo cha Utafiti",
+  "researchTitle": "Tengeneza au Jibu Utafiti wa Wanafunzi",
+  "researchDescription": "Shiriki katika utafiti wa kitaaluma au tengeneza dodoso lako mwenyewe.",
+  "answerSurvey": "Jibu Dodoso",
+  "createSurvey": "Tengeneza Dodoso",
+
+  "home": "Nyumbani",
+  "explore": "Gundua",
+  "wingaCard": "Winga Card",
+  "orders": "Maagizo",
+  "profile": "Wasifu",
+
+  "notifications": "Arifa",
+  "settings": "Mipangilio",
+  "language": "Lugha",
+  "selectLanguage": "Chagua Lugha",
+  "english": "English",
+  "swahili": "Kiswahili",
+
+  "currency": "TZS",
+  "perMonth": "/ mwezi",
+  "perYear": "/ mwaka",
+  "fromCampus": "kutoka campus",
+
+  "noData": "Hakuna taarifa inayopatikana",
+  "loading": "Inapakia...",
+  "error": "Kuna tatizo limetokea",
+  "retry": "Jaribu Tena"
+}

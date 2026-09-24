@@ -1,0 +1,77 @@
+{
+  "@@locale": "en",
+
+  "appName": "WINGA KIGANJANI",
+  "appTagline": "Campus needs, all in one place",
+
+  "greeting": "Hello, {name} 👋",
+  "@greeting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+
+  "welcomeBack": "Welcome back to your campus network.",
+
+  "campus": "Campus",
+  "searchHint": "Search for food, accommodation, products or services...",
+
+  "dailyBudget": "Today's Budget",
+  "budgetBalance": "Balance",
+  "budgetSpent": "Spent",
+  "budgetLimit": "Daily Limit",
+  "manageBudget": "Manage Budget",
+  "setBudget": "Set Daily Budget",
+
+  "loginToBudget": "Log in or create an account to view and manage your daily budget.",
+  "loginRegister": "Log In / Register",
+
+  "quickServices": "Quick Services",
+
+  "food": "Food",
+  "accommodation": "Accommodation",
+  "marketplace": "Marketplace",
+  "research": "Research",
+
+  "nearbyFood": "Food Available Nearby",
+  "viewAllFood": "View All Food",
+  "orderNow": "Order Now",
+  "viewDetails": "View Details",
+
+  "nearbyAccommodation": "Accommodation Near Campus",
+  "viewAllAccommodation": "View All Accommodation",
+  "rentNow": "Rent Now",
+
+  "recommendedForYou": "Recommended for You",
+
+  "researchCorner": "Research Corner",
+  "researchTitle": "Create or Answer Student Research",
+  "researchDescription": "Participate in academic research or create your own questionnaire.",
+  "answerSurvey": "Answer Survey",
+  "createSurvey": "Create Survey",
+
+  "home": "Home",
+  "explore": "Explore",
+  "wingaCard": "Winga Card",
+  "orders": "Orders",
+  "profile": "Profile",
+
+  "notifications": "Notifications",
+  "settings": "Settings",
+  "language": "Language",
+  "selectLanguage": "Select Language",
+  "english": "English",
+  "swahili": "Kiswahili",
+
+  "currency": "TZS",
+  "perMonth": "/ month",
+  "perYear": "/ year",
+  "fromCampus": "from campus",
+
+  "noData": "No information available",
+  "loading": "Loading...",
+  "error": "Something went wrong",
+  "retry": "Retry"
+}
